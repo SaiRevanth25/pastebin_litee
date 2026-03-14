@@ -1,4 +1,4 @@
-const API_BASE_URL = "https://pastebin-lite-kanm.onrender.com";
+const API_BASE_URL = "https://pastebin-litee-chi.vercel.app";
 
 export interface CreatePasteRequest {
   content: string;
