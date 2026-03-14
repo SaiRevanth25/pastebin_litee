@@ -4,7 +4,7 @@ A lightweight, feature-rich pastebin application for sharing text content with e
 
 ## 🔗 Live Deployment
 
-**[View Live Application](https://pastebinlitee-nu.vercel.app)**
+**[View Live Application](https://pastebin-litee-chi.vercel.app)**
 
 ---
 
